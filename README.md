@@ -14,13 +14,13 @@ REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppInstaller" /v
 
 #### Alternative to Snagit
 
-``
+````
 winget install Greenshot.Greenshot --scope machine
-``
+````
 
 
 #### DisplayLink
 
-``
+````
 winget install DisplayLink.GraphicsDriver --scope machine --force
-``
+````
