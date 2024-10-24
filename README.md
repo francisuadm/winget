@@ -23,7 +23,7 @@ winget install Dell.CommandUpdate  --scope machine --disable-interactivity --for
 #### Alternative to Snagit
 
 ````
-winget install Greenshot.Greenshot --scope machine
+winget install Greenshot.Greenshot  --scope machine --disable-interactivity --force -h
 ````
 
 
